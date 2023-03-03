@@ -92,21 +92,6 @@ Code Output:
 
 
 
-Advantage
-	Disadvantage
-
-Can be used to compress any format of image e.g. jpeg, jpg, bmp etc. format
-	It is not a very good block- based transformation
-technique, and using SVD on the whole image requires lots of memory.
-
-Gives lossy compression
-	Takes lot of time. Time complexity is high
-
-Gives option to choose rank to vary image quality.
-	To actually save data, we need k > (m*n / (m+n+1). That may not be the case with all the images
-
-	Power method is not numerically stable as a small change in matrix could bring a larger change in singular value ratio of two images.
-
 
 
 
