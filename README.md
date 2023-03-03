@@ -90,6 +90,7 @@ KEY STEPS WHICH INCLUDE LINEAR ALGEBRA:
 -We want to ensure that the vectors in span of v1 are ignored and hence we will set A to A = A – σ1 u1 v1T and repeat the whole process again.
 Code Output:
  
+![image](https://user-images.githubusercontent.com/102241865/222789136-e8c10b45-0592-4f13-af4a-c44d06a8f29f.png)
 
 
 
@@ -97,11 +98,7 @@ Code Output:
 
 
 
-
-
-
-
-
+![Uploading image.png…]()
 
 Advantage
 	Disadvantage
