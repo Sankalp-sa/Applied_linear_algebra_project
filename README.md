@@ -12,7 +12,7 @@ Several methods for image compression include:
 3. Compression of the fractal.
 4. SVD usage (Singular Values Decomposition)
 
-GITHUB Repository link : 
+GITHUB Repository link : https://github.com/Sankalp-sa/Applied_linear_algebra_project
 
 For lossy image compression in this project, we have been applying the idea of standard value decomposition, or SVD. Power Method is the name of the technique employed. Every color in the image has undergone the SVD technique to provide an overview. Here, the image's pixels are represented as a m*n matrix, and SVD is applied to it. According to the requirements for image quality, the user must set the rank for approximation in the code. The resolution of the compressed image increases with rank.
 
