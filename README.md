@@ -1,8 +1,6 @@
-# Applied_linear_algebra_project
+# Image processing project :
 
- 
-Applied Linear Algebra Project Report
-Topic: Image compression using SVD
+Topic: Image compression using SVD :
 ________________________________________
 
 Introduction
