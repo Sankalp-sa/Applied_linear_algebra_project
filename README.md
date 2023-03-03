@@ -92,12 +92,6 @@ Code Output:
 
 
 
-
-
-
-
-![Uploading image.png…]()
-
 Advantage
 	Disadvantage
 
